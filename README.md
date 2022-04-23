@@ -1,11 +1,7 @@
 </br>
 </br>
-
 <div dsplay="inline-block">
- 
- <h1 align="left">Gustavo Almeida</h1>
-
-
+<h1 align="left">Gustavo Almeida</h1>
 </br>
 </br>
 
@@ -20,17 +16,21 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title = "ANDROID STUDIO"/>
-  
-  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
 
-
-### 🖥️ Linguagens de programação: 
+### Linguagens de Programação: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 
+### Tenho interesse em aprender:   
+ 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title = "SWIFT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title = "AWS"/></code> 
+ 
 
 📚 Estou no 5° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
@@ -38,7 +38,7 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
 
 🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB. Amo fazer testes, encontrar falhas de processos ou funcionais, sugerir melhorias.
 
- 
+⚪ Estou disposto a me aparfeiçoar ou aprender novas coisas do 0, com dedicação exclusiva durante e depois do horário de trabalho!
 
 🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-bb8021175) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
