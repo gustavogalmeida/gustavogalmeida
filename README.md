@@ -4,27 +4,14 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Gustavo Almeida</h1>
- <a href="https://www.instagram.com/gustavogabriel.gg/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/gg_gustavog">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-almeida-bb8021175">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
-
-
-
 
 
 </br>
 </br>
 
-## Olá!!
+## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, trabalho como Analista de Sistemas e estou estudando programação no IFTM e por conta propria para futuramente trabalhar como Dev!
+Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM e já trabalho na área. Estudo programação por fora da faculdade para futuramente trabalhar como Dev.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -45,7 +32,24 @@ Tenho 21 anos, moro em Patrocínio/MG, trabalho como Analista de Sistemas e esto
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 
 
-  
-  
+📚 Estou no 5° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
+ 
+🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar (mais especificamente em mobile).
+
+🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB. Amo fazer testes, encontrar falhas de processos ou funcionais, sugerir melhorias.
+
+ 
+
+🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-bb8021175) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
 
+<a href="https://www.instagram.com/gustavogabriel.gg/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/gg_gustavog">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-almeida-bb8021175">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
