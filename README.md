@@ -41,7 +41,7 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
 
 ⚪ Estou disposto a me aparfeiçoar ou aprender novas coisas do 0, com dedicação exclusiva durante e depois do horário de trabalho!
 
-🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-bb8021175) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
+🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavogalmeida) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
 
 <a href="https://www.instagram.com/gustavogabriel.gg/">
@@ -50,7 +50,7 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
   <a href="https://twitter.com/gg_gustavog">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/gustavo-almeida-bb8021175">
+  <a href="https://www.linkedin.com/in/gustavogalmeida">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
