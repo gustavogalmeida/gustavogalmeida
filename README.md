@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para futuramente trabalhar como Dev. Sou apaixonado por achar bugs, problemas com validações em sistemas.
+Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para futuramente trabalhar como Dev. Sou apaixonado por fazer testes, sugerir melhorias, encontrar bugs, falhas de processos ou funcionais e problemas com validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -34,7 +34,7 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
  
 🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar (mais especificamente em mobile).
 
-🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB. Amo fazer testes, encontrar falhas de processos ou funcionais, sugerir melhorias.
+🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
