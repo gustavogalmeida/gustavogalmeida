@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para futuramente trabalhar como Dev. Sou apaixonado por fazer testes, sugerir melhorias, encontrar bugs, falhas de processos ou funcionais e problemas com validações.
+Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para trabalhar como Dev. Me desempenho muito bem em testes, sugerir melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
