@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM e já trabalho na área. Estudo programação por fora da faculdade para futuramente trabalhar como Dev.
+Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional como Analista de Sistemas há 2 anos, e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para futuramente trabalhar como Dev. Sou apaixonado por achar bugs, problemas com validações em sistemas.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -36,7 +36,7 @@ Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Analise e Desenvolviment
 
 🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB. Amo fazer testes, encontrar falhas de processos ou funcionais, sugerir melhorias.
 
-⚪ Estou disposto a me aparfeiçoar ou aprender novas coisas do 0, com dedicação exclusiva durante e depois do horário de trabalho!
+⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
 🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavogalmeida) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
