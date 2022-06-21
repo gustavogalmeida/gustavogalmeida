@@ -7,34 +7,30 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos na área de tecnologia. Estudo programação por fora da faculdade para trabalhar como Dev, focado em Java e Kotlin mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
+Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Estou trabalhando agora como Desenvolvedor Java/Web, tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos na área de tecnologia. Estudo programação por fora da faculdade focado em Java, REST e Kotlin, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" title = "JQuery"/> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
 
 ### Linguagens de Programação: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
-
-### Tenho interesse em aprender:   
- 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title = "SWIFT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title = "AWS"/></code> 
  
 
 📚 Estou no 5° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
-🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar (mais especificamente em mobile).
+🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar.
 
-🖥️ Trabalho como Auxiliar de Analista de Sistemas pela [Zix](https://zixinformatica.com/), aqui instalo sistemas (REP, PAF, entre outros), passo treinamento, dou suporte e aplico correções diretamente pelo DB.
+🖥️ Trabalho como Desenvolvedor Java/Web pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com REST, HTML5, JQuery, Hibernate e Mobile com Android Nativo.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
