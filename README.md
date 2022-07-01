@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Estou trabalhando agora como Desenvolvedor Java/Web, tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos na área de tecnologia. Estudo programação por fora da faculdade focado em Java, REST e Kotlin, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
+Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, iniciando a carreira de desenvolvimento agora e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java, REST e Kotlin, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
