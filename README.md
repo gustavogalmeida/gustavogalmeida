@@ -27,7 +27,7 @@ Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou conclu
 
  
 
-📚 Estou no 5° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
+📚 Estou no 6° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
 🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar.
 
