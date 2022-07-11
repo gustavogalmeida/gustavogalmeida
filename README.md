@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, iniciando a carreira de desenvolvimento agora e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java, REST e Kotlin, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
+Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, iniciando a carreira de desenvolvimento agora e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java, e SpringBoot, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -29,9 +29,9 @@ Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou conclu
 
 📚 Estou no 6° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
-🤓 Estudo Java e Kotlin por fora da faculdade para me aparfeiçoar.
+🤓 Estudo Java e Spring por fora da faculdade para me aparfeiçoar.
 
-🖥️ Trabalho como Desenvolvedor Java/Web pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com REST, HTML5, JQuery, Hibernate e Mobile com Android Nativo.
+🖥️ Trabalho como Desenvolvedor Java/Web pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com Spring, HTML5, JQuery e Hibernate.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
