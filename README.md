@@ -7,18 +7,17 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas, iniciando a carreira de desenvolvimento agora e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java, e SpringBoot, mas aberto para algo novo. Me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
+Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java e SpringBoot, mas aberto para algo novo. Meu foco é backend e me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" title = "JQuery"/> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title = "Laravel"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SPRING"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>
 
 ### Linguagens de Programação: 
 
