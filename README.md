@@ -11,25 +11,19 @@ Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou conclu
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" title = "JQuery"/> 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title = "Laravel"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>
-
-### Linguagens de Programação: 
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
-
  
 
 📚 Estou no 6° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
 🤓 Estudo Java e Spring por fora da faculdade para me aparfeiçoar.
 
-🖥️ Trabalho como Desenvolvedor Java/Web pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com Spring, HTML5, JQuery e Hibernate.
+🖥️ Trabalho como Desenvolvedor Java pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com Spring, HTML5, JQuery e Hibernate.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
