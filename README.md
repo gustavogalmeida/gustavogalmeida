@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou concluindo Análise e Desenvolvimento de Sistemas no IFTM. Tenho experiência profissional de 2 anos como Analista de Sistemas e 7 anos(total) na área de tecnologia. Estudo programação por fora da faculdade focado em Java e SpringBoot, mas aberto para algo novo. Meu foco é backend e me desempenho muito bem em testes, sugestão de melhorias, encontrar bugs, falhas de processos/funcionais e problemas de validações.
+Estou com 22 anos, minhas principais competências são API com Spring, Java e Analise de Sistemas. Atualmente trabalho como Agente de Produtos de Tecnologia e tenho experiência profissional de 2 anos como Analista de Sistemas, 8 meses como desenvolvedor Java/Spring e 7 anos(total) na área de tecnologia. Desenvolvo focado em Java e Springboot em projetos pessoais. Me desempenho muito bem em testes e gosto de deixar meus projetos pessoais no GitHub.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -16,14 +16,13 @@ Tenho 21 anos, moro em Patrocínio/MG, sou Desenvolvedor Java/Web e estou conclu
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
  
 
 📚 Estou no 6° período de Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
  
 🤓 Estudo Java e Spring por fora da faculdade para me aparfeiçoar.
 
-🖥️ Trabalho como Desenvolvedor Java pela [Zix](https://zixinformatica.com/), aqui faço a manutenção e implementações em Projetos Web, com Spring, HTML5, JQuery e Hibernate.
+🖥️ Trabalho como Agente de Produtos de Tecnologia pela [Sicoob Coopacredi]((https://www.sicoob.com.br/web/sicoobcoopacredi]), aqui fico responsável pelo API Pix, Títulos de Cobrança Bancaria com QR Code Dinâmico, Adquirência Sipag, Relatórios, Excel e Analises de Negócio.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
