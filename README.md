@@ -22,7 +22,7 @@ Estou com 22 anos, minhas principais competências são API com Spring, Java e A
  
 🤓 Estudo Java e Spring por fora da faculdade para me aparfeiçoar.
 
-🖥️ Trabalho como Agente de Produtos de Tecnologia pela [Sicoob Coopacredi]((https://www.sicoob.com.br/web/sicoobcoopacredi]), aqui fico responsável pelo API Pix, Títulos de Cobrança Bancaria com QR Code Dinâmico, Adquirência Sipag, Relatórios, Excel e Analises de Negócio.
+🖥️ Trabalho como Agente de Produtos de Tecnologia pela [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), aqui fico responsável pelo API Pix, Títulos de Cobrança Bancaria com QR Code Dinâmico, Adquirência Sipag, Relatórios, Excel e Analises de Negócio.
 
 ⚪ Estou disposto a me aparfeiçoar e aprender novas coisas do zero, com dedicação exclusiva durante e depois do horário de trabalho!
 
