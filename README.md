@@ -15,15 +15,12 @@ Sou Analista e Desenvolvedor de Sistemas, atualmente com 22 anos e graduado pelo
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/>
- 
 
 📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
 
 🖥️ Trabalho como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), aqui fico responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.
 
 🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavogalmeida) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
-
 
 <a href="https://www.instagram.com/gustavogabriel.gg/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
