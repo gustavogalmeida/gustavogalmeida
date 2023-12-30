@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Sou Analista e Desenvolvedor de Sistemas, atualmente com 22 anos e graduado pelo IFTM. Encontrei minha paixão por tecnologia quando iniciei meus estudos há 8 anos e, desde então, tenho buscado me especializar no desenvolvimento backend. Além disso,, possuo habilidades em testes e uma capacidade natural de comunicação, que foi aprimorada por minha experiência no atendimento ao cliente.
+Sou desenvolvedor backend Java com foco em criação em manutenção de APIs com Spring Framework. Tenho sólida experiência no mercado financeiro, unindo negócios e tecnologia, analisando dados, desenvolvendo estudos e soluções voltadas para produtos, serviços e investimentos de instituições financeiras.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
