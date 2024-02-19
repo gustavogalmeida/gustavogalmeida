@@ -18,7 +18,7 @@ Sou desenvolvedor backend Java com foco em criação em manutenção de APIs com
 
 📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
 
-📚 Estou cursando Engenharia de Software na [PUC-Rio](ttps://www.puc-rio.br/index.html).
+📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).
 
 🖥️ Trabalho como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), aqui fico responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.
 
