@@ -20,11 +20,11 @@ Sou desenvolvedor backend Java com foco em criação em manutenção de APIs com
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 
 📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).<br>
-📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).
+📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).<br>
 
-💼 Sou o responsável pelo setor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)
-🖥️ Trabalhei como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), onde fiquei responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.
-Já tive outras experiencias trabalhando em empresas de Sistemas e de Telecomunicações.
+💼 Sou o responsável pelo setor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)<br>
+🖥️ Trabalhei como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), onde fiquei responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.<br>
+Já tive outras experiencias trabalhando em empresas de Sistemas e de Telecomunicações.<br>
 
 🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavogalmeida) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
