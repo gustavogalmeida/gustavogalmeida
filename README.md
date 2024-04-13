@@ -19,7 +19,7 @@ Sou desenvolvedor backend Java com foco em criação em manutenção de APIs com
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 
-📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).
+📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).<br>
 📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).
 
 💼 Sou o responsável pelo setor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)
