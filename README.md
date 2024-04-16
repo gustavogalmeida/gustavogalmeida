@@ -7,7 +7,7 @@
 
 ## Hello, world!!
 
-Sou desenvolvedor backend com experiências no ecosistema Python e Java criando e realizando manutenção de web apps com Flask ou Spring Framework.<br>
+Sou desenvolvedor backend com experiências nos ecosistemas Python e Java, criando e realizando manutenção de web apps com Flask ou Spring Framework.<br>
 Tenho sólida experiência no mercado financeiro, estruturando, desenvolvendo e comercializando produtos e investimentos. Também produzo analises de negocios e ferramentas, unindo negócios e tecnologia.
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -26,7 +26,7 @@ Tenho sólida experiência no mercado financeiro, estruturando, desenvolvendo e 
 📚 Sou formado em Analise e Desenvolvimento de Sistemas no [IFTM](https://iftm.edu.br/).<br>
 📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).<br>
 
-💼 Sou o responsável pelo setor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)<br>
+💼 Sou o Gestor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)<br>
 🖥️ Trabalhei como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), onde fiquei responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.<br>
 Já tive outras experiencias trabalhando em empresas de Sistemas e de Telecomunicações.<br>
 
