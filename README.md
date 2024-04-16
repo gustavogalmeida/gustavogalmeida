@@ -27,8 +27,10 @@ Tenho sólida experiência no mercado financeiro, estruturando, desenvolvendo e 
 📚 Estou cursando Engenharia de Software na [PUC-Rio](https://www.puc-rio.br/index.html).<br>
 
 💼 Sou o Gestor de Investimentos em uma Cooperativa de Crédito. [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi)<br>
-🖥️ Trabalhei como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), onde fiquei responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.<br>
+💼 Trabalhei como Agente de Tecnologia e Integrações pelo [Sicoob Coopacredi](https://www.sicoob.com.br/web/sicoobcoopacredi), onde fiquei responsável pelas APIs de Pix, boletos e conta corrente; troca de arquivos CNAB240, títulos de Cobrança Bancaria com QR Code Dinâmico, Relatórios, Excel e Analises de Negócio.<br>
 Já tive outras experiencias trabalhando em empresas de Sistemas e de Telecomunicações.<br>
+
+🖥️ Apaixonado por viver e aprender tudo sobre o mundo de tecnologia e investimentos.
 
 🔷 Para saber mais sobre mim ou quiser mandar uma mensagem pode dar uma olhada no meu [LinkedIn](https://www.linkedin.com/in/gustavogalmeida) ou [Instagram](https://www.instagram.com/gustavogabriel.gg/) 🙃.
 
