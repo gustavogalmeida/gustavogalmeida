@@ -7,7 +7,8 @@
 
 ## Hello, world!!
 
-Sou desenvolvedor backend Java com foco em criação em manutenção de APIs com Spring Framework. Tenho sólida experiência no mercado financeiro, unindo negócios e tecnologia, analisando dados, desenvolvendo estudos e soluções voltadas para produtos, serviços e investimentos de instituições financeiras.
+Sou desenvolvedor backend com experiências no ecosistema Python e Java criando e realizando manutenção de web apps com Flask ou Spring Framework.<br>
+Tenho sólida experiência no mercado financeiro, estruturando, desenvolvendo e comercializando produtos e investimentos. Também produzo analises de negocios e ferramentas, unindo negócios e tecnologia.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
