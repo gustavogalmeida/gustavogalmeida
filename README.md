@@ -5,8 +5,6 @@
 </br>
 </br>
 
-## Hello, world!!
-
 Sou desenvolvedor backend com experiências nos ecosistemas Python e Java, criando e realizando manutenção de web apps com Flask ou Spring Framework.<br>
 Tenho sólida experiência no mercado financeiro, estruturando, desenvolvendo e comercializando produtos e investimentos. Também produzo analises de negocios e ferramentas, unindo negócios e tecnologia.
 
